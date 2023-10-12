@@ -2,7 +2,7 @@
 
 ![Logo](samples/sample-001.png)
 
-Bouazzi Maghribi is an open-source revival of a classic Arabic font based on the Maghribi script. This project is dedicated to the memory and the genius of the late Dr. Ahmed Bouazzi.
+Bouazzi Maghribi is an open-source revival of a classic Arabic font based on the Maghribi script. This project is dedicated to the memory of the late Dr. Ahmed Bouazzi.
 
 ## Overview
 
