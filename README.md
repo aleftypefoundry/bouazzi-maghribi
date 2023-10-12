@@ -15,6 +15,13 @@ The Bouazzi Maghribi font project aims to bring back the elegance and intricate 
 - Enhanced readability for digital usage
 - Ideal for artistic and cultural projects
 - Compatible with various devices and platforms
+- Permits writing in normal and maghribi arabic
+
+![normal arabic](samples/sample-003.png)
+*Normal Arabic*
+
+![maghribi arabic](samples/sample-004.png)
+*Maghribi Arabic*
 
 ## Installation
 
