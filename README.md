@@ -18,11 +18,11 @@ The Bouazzi Maghribi font project aims to bring back the elegance and intricate 
 
 ## Installation
 
-The Bouazzi Maghribi font can be downloaded and installed on different platforms such as Windows, MacOS, and Linux. For the instructions, follow the guide provided in the [Installation](./installation_guide.md) section.
+The Bouazzi Maghribi font can be downloaded and installed on different platforms such as Windows, MacOS, and Linux. For the instructions, follow the guide provided in the [Installation](installation-guide.md) section.
 
 ## Contribute
 
-Community contributions have always played a crucial role in maintaining and evolving open-source projects. We welcome and appreciate any contribution you can make. Visit our [Contribution Guidelines](./contribution_guide.md) for more information on how you can participate in the development of Bouazzi Maghribi font.
+Community contributions have always played a crucial role in maintaining and evolving open-source projects. We welcome and appreciate any contribution you can make. Visit our [Contribution Guidelines](contribution-guide.md) for more information on how you can participate in the development of Bouazzi Maghribi font.
 
 ## License
 
