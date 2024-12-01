@@ -1,0 +1,18 @@
+{
+glyphname = "question-ar";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (286,0);
+ref = question;
+scale = (-0.85,0.85);
+}
+);
+width = 298;
+}
+);
+metricRight = "=|";
+unicode = 1567;
+}

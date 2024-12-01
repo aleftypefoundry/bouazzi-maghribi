@@ -1,0 +1,44 @@
+{
+glyphname = quotesingle;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(64,616,o),
+(75,631,o),
+(106,631,cs),
+(138,631,o),
+(149,616,o),
+(144,586,cs),
+(115,394,l),
+(98,394,l),
+(68,586,ls)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 722;
+width = 20;
+}
+);
+vhints = (
+{
+position = 93;
+width = 92;
+}
+);
+};
+};
+vertWidth = 0;
+width = 212;
+}
+);
+metricRight = "=|";
+unicode = 39;
+}

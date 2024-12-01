@@ -1,0 +1,18 @@
+{
+glyphname = "yeh-ar.init";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "behDotless-ar.init";
+},
+{
+pos = (-113,-223);
+ref = "twodotshorizontalbelow-ar";
+}
+);
+width = 133;
+}
+);
+}

@@ -1,0 +1,19 @@
+{
+glyphname = "fehDotmovedbelow-ar.init";
+kernRight = "middle-reh";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "fehDotless-ar.init";
+},
+{
+pos = (9,-223);
+ref = "dotbelow-ar";
+}
+);
+width = 266;
+}
+);
+}

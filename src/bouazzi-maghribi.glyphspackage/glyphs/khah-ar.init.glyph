@@ -1,0 +1,19 @@
+{
+glyphname = "khah-ar.init";
+kernRight = "middle-reh";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "hah-ar.init";
+},
+{
+pos = (106,267);
+ref = "dotabove-ar";
+}
+);
+width = 437;
+}
+);
+}

@@ -1,0 +1,18 @@
+{
+glyphname = "khah-ar.fina";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "hah-ar.fina";
+},
+{
+pos = (186,254);
+ref = "dotabove-ar";
+}
+);
+width = 535;
+}
+);
+}

@@ -1,0 +1,43 @@
+{
+glyphname = slash;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(245,601,l),
+(302,601,l),
+(123,-13,l),
+(66,-13,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -15;
+width = 21;
+},
+{
+position = 687;
+width = 20;
+}
+);
+vhints = (
+{
+position = 92;
+width = 277;
+}
+);
+};
+};
+vertWidth = 0;
+width = 368;
+}
+);
+metricRight = "=|";
+unicode = 47;
+}

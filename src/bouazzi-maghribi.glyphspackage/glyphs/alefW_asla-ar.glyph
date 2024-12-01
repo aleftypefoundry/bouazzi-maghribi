@@ -1,0 +1,19 @@
+{
+glyphname = "alefWasla-ar";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "alef-ar";
+},
+{
+pos = (6,23);
+ref = "wasla-ar";
+}
+);
+width = 199;
+}
+);
+unicode = 1649;
+}

@@ -1,0 +1,76 @@
+{
+glyphname = divide;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(184,99,o),
+(206,122,o),
+(235,122,cs),
+(262,122,o),
+(284,99,o),
+(284,73,cs),
+(284,44,o),
+(262,22,o),
+(235,22,cs),
+(206,22,o),
+(184,44,o),
+(184,73,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(184,380,o),
+(206,403,o),
+(235,403,cs),
+(262,403,o),
+(284,380,o),
+(284,354,cs),
+(284,325,o),
+(262,303,o),
+(235,303,cs),
+(206,303,o),
+(184,325,o),
+(184,354,cs)
+);
+},
+{
+pos = (33,28);
+ref = minus;
+scale = (0.85,0.85);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 26;
+width = 118;
+},
+{
+position = 221;
+width = 58;
+},
+{
+position = 356;
+width = 118;
+}
+);
+vhints = (
+{
+position = 225;
+width = 117;
+}
+);
+};
+};
+vertWidth = 0;
+width = 459;
+}
+);
+unicode = 247;
+}

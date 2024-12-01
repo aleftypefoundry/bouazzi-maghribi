@@ -1,0 +1,43 @@
+{
+glyphname = "kashida-ar";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (50,0);
+},
+{
+name = top;
+pos = (50,101);
+}
+);
+hints = (
+{
+name = _cap.strokebutt;
+origin = (0,1);
+type = Cap;
+},
+{
+name = _cap.strokebutt;
+origin = (0,3);
+type = Cap;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,0,l),
+(100,0,l),
+(100,52,l),
+(0,52,l)
+);
+}
+);
+width = 100;
+}
+);
+unicode = 1600;
+}

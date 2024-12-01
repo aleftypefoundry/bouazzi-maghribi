@@ -1,0 +1,60 @@
+{
+glyphname = dotlessi;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(23,25,l),
+(84,29,o),
+(87,31,o),
+(87,74,cs),
+(87,342,ls),
+(87,372,o),
+(82,377,o),
+(60,380,cs),
+(27,384,l),
+(27,405,l),
+(161,427,l),
+(167,422,l),
+(167,74,ls),
+(167,31,o),
+(170,29,o),
+(231,25,c),
+(231,0,l),
+(23,0,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 29;
+},
+{
+position = 452;
+width = 25;
+},
+{
+position = 482;
+width = 20;
+}
+);
+vhints = (
+{
+position = 107;
+width = 94;
+}
+);
+};
+};
+vertWidth = 0;
+width = 265;
+}
+);
+unicode = 305;
+}

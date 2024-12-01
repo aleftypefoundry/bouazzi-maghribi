@@ -1,0 +1,39 @@
+{
+glyphname = endash;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,237,l),
+(425,237,l),
+(425,188,l),
+(0,188,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 221;
+width = 58;
+}
+);
+vhints = (
+{
+position = 0;
+width = 500;
+}
+);
+};
+};
+vertWidth = 0;
+width = 425;
+}
+);
+metricRight = "=|";
+unicode = 8211;
+}

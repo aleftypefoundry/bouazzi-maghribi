@@ -1,0 +1,21 @@
+{
+glyphname = "lam_jeem-ar.init";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "lam_hah-ar.init";
+},
+{
+anchor = bottom_2;
+pos = (8,-218);
+ref = "dotbelow-ar";
+}
+);
+width = 439;
+}
+);
+metricLeft = "jeem-ar.medi";
+metricRight = "lam-ar.init";
+}

@@ -1,0 +1,18 @@
+{
+glyphname = "shaddaDamma-ar";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "shadda-ar";
+},
+{
+pos = (2,131);
+ref = "damma-ar";
+}
+);
+width = 300;
+}
+);
+}

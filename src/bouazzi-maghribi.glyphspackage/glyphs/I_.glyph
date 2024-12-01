@@ -1,0 +1,58 @@
+{
+glyphname = I;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(26,25,l),
+(101,30,o),
+(102,31,o),
+(102,79,cs),
+(102,509,ls),
+(102,557,o),
+(101,558,o),
+(26,564,c),
+(26,588,l),
+(263,588,l),
+(263,564,l),
+(189,558,o),
+(186,557,o),
+(186,509,cs),
+(186,79,ls),
+(186,31,o),
+(189,30,o),
+(263,25,c),
+(263,0,l),
+(26,0,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 29;
+},
+{
+position = 663;
+width = 29;
+}
+);
+vhints = (
+{
+position = 125;
+width = 99;
+}
+);
+};
+};
+vertWidth = 0;
+width = 319;
+}
+);
+unicode = 73;
+}

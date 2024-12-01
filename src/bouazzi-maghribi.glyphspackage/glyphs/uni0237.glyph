@@ -1,0 +1,64 @@
+{
+glyphname = uni0237;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(28,-173,o),
+(57,-155,o),
+(72,-125,cs),
+(90,-90,o),
+(94,-31,o),
+(94,31,cs),
+(94,342,ls),
+(94,371,o),
+(89,377,o),
+(67,380,cs),
+(35,384,l),
+(35,405,l),
+(168,427,l),
+(174,422,l),
+(174,6,ls),
+(174,-100,o),
+(149,-174,o),
+(41,-198,cs),
+(17,-203,o),
+(-7,-206,o),
+(-22,-206,c),
+(-24,-185,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -242;
+width = 24;
+},
+{
+position = 452;
+width = 25;
+},
+{
+position = 482;
+width = 20;
+}
+);
+vhints = (
+{
+position = 106;
+width = 94;
+}
+);
+};
+};
+vertWidth = 0;
+width = 263;
+}
+);
+unicode = 567;
+}

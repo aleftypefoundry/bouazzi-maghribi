@@ -1,0 +1,70 @@
+{
+glyphname = T;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(16,588,l),
+(506,588,l),
+(506,447,l),
+(481,447,l),
+(470,540,o),
+(453,558,o),
+(353,558,cs),
+(303,558,l),
+(303,79,ls),
+(303,31,o),
+(306,30,o),
+(397,25,c),
+(397,0,l),
+(125,0,l),
+(125,25,l),
+(216,30,o),
+(219,31,o),
+(219,79,cs),
+(219,558,l),
+(169,558,ls),
+(69,558,o),
+(51,540,o),
+(41,447,c),
+(16,447,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 29;
+},
+{
+position = 657;
+width = 35;
+}
+);
+vhints = (
+{
+position = 22;
+width = 30;
+},
+{
+position = 261;
+width = 99;
+},
+{
+position = 569;
+width = 30;
+}
+);
+};
+};
+vertWidth = 0;
+width = 571;
+}
+);
+unicode = 84;
+}

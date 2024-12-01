@@ -1,0 +1,46 @@
+{
+glyphname = multiply;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(198,213,l),
+(46,367,l),
+(80,406,l),
+(234,250,l),
+(387,406,l),
+(423,367,l),
+(271,213,l),
+(423,56,l),
+(387,19,l),
+(234,175,l),
+(80,19,l),
+(46,56,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 22;
+width = 456;
+}
+);
+vhints = (
+{
+position = 63;
+width = 444;
+}
+);
+};
+};
+vertWidth = 0;
+width = 469;
+}
+);
+unicode = 215;
+}

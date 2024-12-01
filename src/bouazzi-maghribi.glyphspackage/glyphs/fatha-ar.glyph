@@ -1,0 +1,37 @@
+{
+glyphname = "fatha-ar";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (137,679);
+},
+{
+name = top;
+pos = (137,735);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(39,686,o),
+(124,694,qs),
+(195,700,o),
+(212,709,qs),
+(248,731,l),
+(199,726,o),
+(150,722,qs),
+(80,714,o),
+(62,705,qs),
+(26,683,l)
+);
+}
+);
+width = 300;
+}
+);
+unicode = 1614;
+}

@@ -1,0 +1,64 @@
+{
+glyphname = Z;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(135,194,o),
+(263,377,o),
+(387,558,c),
+(234,558,ls),
+(118,558,o),
+(97,540,o),
+(87,442,c),
+(59,442,l),
+(59,588,l),
+(494,588,l),
+(499,577,l),
+(370,394,o),
+(243,213,o),
+(119,30,c),
+(291,30,ls),
+(421,30,o),
+(461,45,o),
+(477,151,c),
+(504,151,l),
+(495,0,l),
+(11,0,l),
+(7,11,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 35;
+},
+{
+position = 657;
+width = 35;
+},
+{
+position = 679;
+width = 13;
+}
+);
+vhints = (
+{
+position = 71;
+width = 32;
+}
+);
+};
+};
+vertWidth = 0;
+width = 563;
+}
+);
+unicode = 90;
+}

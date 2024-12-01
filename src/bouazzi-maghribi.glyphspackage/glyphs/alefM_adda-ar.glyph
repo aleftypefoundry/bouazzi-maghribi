@@ -1,0 +1,19 @@
+{
+glyphname = "alefMadda-ar";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "alef-ar";
+},
+{
+pos = (-43,-28);
+ref = "madda-ar";
+}
+);
+width = 199;
+}
+);
+unicode = 1570;
+}

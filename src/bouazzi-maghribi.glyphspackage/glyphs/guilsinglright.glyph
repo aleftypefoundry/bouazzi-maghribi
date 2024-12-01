@@ -1,0 +1,53 @@
+{
+glyphname = guilsinglright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(97,188,ls),
+(100,193,o),
+(100,198,o),
+(100,203,cs),
+(100,207,o),
+(100,213,o),
+(97,217,cs),
+(30,355,l),
+(47,370,l),
+(174,216,ls),
+(177,213,o),
+(179,207,o),
+(179,203,cs),
+(179,198,o),
+(177,194,o),
+(174,190,cs),
+(47,35,l),
+(30,48,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 41;
+width = 394;
+}
+);
+vhints = (
+{
+position = 124;
+width = 92;
+}
+);
+};
+};
+vertWidth = 0;
+width = 209;
+}
+);
+metricRight = "=|";
+unicode = 8250;
+}

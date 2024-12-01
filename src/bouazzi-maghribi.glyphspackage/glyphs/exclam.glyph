@@ -1,0 +1,57 @@
+{
+glyphname = exclam;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(48,582,o),
+(52,601,o),
+(98,601,cs),
+(145,601,o),
+(149,582,o),
+(145,544,cs),
+(110,178,l),
+(85,178,l),
+(51,544,ls)
+);
+},
+{
+pos = (-15,0);
+ref = period;
+scale = (0.85,0.85);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -12;
+width = 128;
+},
+{
+position = 687;
+width = 20;
+}
+);
+vhints = (
+{
+position = 58;
+width = 126;
+},
+{
+position = 66;
+width = 111;
+}
+);
+};
+};
+vertWidth = 0;
+width = 174;
+}
+);
+metricRight = "=|";
+unicode = 33;
+}

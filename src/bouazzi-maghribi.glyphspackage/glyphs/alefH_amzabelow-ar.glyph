@@ -1,0 +1,19 @@
+{
+glyphname = "alefHamzabelow-ar";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "alef-ar";
+},
+{
+pos = (29,-263);
+ref = "hamzabelow-ar";
+}
+);
+width = 199;
+}
+);
+unicode = 1573;
+}

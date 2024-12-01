@@ -1,0 +1,45 @@
+{
+glyphname = dotaccent.i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(66,587,o),
+(87,608,o),
+(118,608,cs),
+(149,608,o),
+(170,587,o),
+(170,556,cs),
+(170,525,o),
+(149,504,o),
+(118,504,cs),
+(87,504,o),
+(66,525,o),
+(66,556,cs)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 593;
+width = 122;
+}
+);
+vhints = (
+{
+position = 92;
+width = 122;
+}
+);
+};
+};
+vertWidth = 0;
+width = 257;
+}
+);
+}
