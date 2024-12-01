@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ain-ar.fina" format="2">
+  <advance height="1000" width="539"/>
+  <anchor x="371" y="-66" name="bottom"/>
+  <anchor x="335" y="289" name="top"/>
+  <outline>
+    <contour>
+      <point x="567" y="-516" type="curve"/>
+      <point x="569" y="-505" type="line"/>
+      <point x="263" y="-460"/>
+      <point x="165" y="-358"/>
+      <point x="165" y="-200" type="curve" smooth="yes"/>
+      <point x="164" y="-88"/>
+      <point x="217" y="12"/>
+      <point x="319" y="74" type="curve"/>
+      <point x="296" y="74" type="line"/>
+      <point x="358" y="41"/>
+      <point x="416" y="0"/>
+      <point x="493" y="0" type="curve" smooth="yes"/>
+      <point x="539" y="0" type="line"/>
+      <point x="539" y="52" type="line"/>
+      <point x="496" y="52" type="line" smooth="yes"/>
+      <point x="445" y="52"/>
+      <point x="396" y="74"/>
+      <point x="350" y="108" type="curve"/>
+      <point x="350" y="89" type="line"/>
+      <point x="386" y="108"/>
+      <point x="429" y="120"/>
+      <point x="477" y="127" type="curve"/>
+      <point x="422" y="137" type="line"/>
+      <point x="442" y="118"/>
+      <point x="462" y="109"/>
+      <point x="493" y="109" type="curve" smooth="yes"/>
+      <point x="509" y="109"/>
+      <point x="518" y="122"/>
+      <point x="518" y="146" type="curve" smooth="yes"/>
+      <point x="518" y="170"/>
+      <point x="509" y="183"/>
+      <point x="493" y="183" type="curve" smooth="yes"/>
+      <point x="475" y="181"/>
+      <point x="457" y="179"/>
+      <point x="439" y="169" type="curve"/>
+      <point x="497" y="170" type="line"/>
+      <point x="434" y="173"/>
+      <point x="415" y="249"/>
+      <point x="337" y="251" type="curve" smooth="yes"/>
+      <point x="266" y="251"/>
+      <point x="239" y="179"/>
+      <point x="179" y="172" type="curve"/>
+      <point x="232" y="178" type="line"/>
+      <point x="216" y="180"/>
+      <point x="196" y="186"/>
+      <point x="175" y="186" type="curve" smooth="yes"/>
+      <point x="159" y="186"/>
+      <point x="150" y="173"/>
+      <point x="150" y="149" type="curve" smooth="yes"/>
+      <point x="150" y="125"/>
+      <point x="159" y="112"/>
+      <point x="175" y="112" type="curve" smooth="yes"/>
+      <point x="198" y="112"/>
+      <point x="216" y="124"/>
+      <point x="233" y="132" type="curve"/>
+      <point x="183" y="130" type="line"/>
+      <point x="214" y="124"/>
+      <point x="245" y="111"/>
+      <point x="276" y="90" type="curve"/>
+      <point x="274" y="105" type="line"/>
+      <point x="169" y="33"/>
+      <point x="113" y="-79"/>
+      <point x="114" y="-203" type="curve" smooth="yes"/>
+      <point x="114" y="-376"/>
+      <point x="229" y="-481"/>
+    </contour>
+    <contour>
+      <point x="308" y="121" type="curve"/>
+      <point x="326" y="121" type="line"/>
+      <point x="303" y="139"/>
+      <point x="278" y="153"/>
+      <point x="251" y="166" type="curve"/>
+      <point x="251" y="148" type="line"/>
+      <point x="279" y="169"/>
+      <point x="298" y="193"/>
+      <point x="331" y="194" type="curve" smooth="yes"/>
+      <point x="362" y="194"/>
+      <point x="383" y="169"/>
+      <point x="409" y="145" type="curve"/>
+      <point x="409" y="163" type="line"/>
+      <point x="371" y="153"/>
+      <point x="336" y="139"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>name</key>
+          <string>_cap.strokebutt</string>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>11</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Cap</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

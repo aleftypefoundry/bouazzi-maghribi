@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefHamzaabove-ar.fina" format="2">
+  <advance height="1000" width="209"/>
+  <anchor x="118" y="-57" name="bottom"/>
+  <anchor x="76" y="853" name="top"/>
+  <outline>
+    <component base="alef-ar.fina"/>
+    <component base="hamzaabove-ar" xOffset="5" yOffset="66"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

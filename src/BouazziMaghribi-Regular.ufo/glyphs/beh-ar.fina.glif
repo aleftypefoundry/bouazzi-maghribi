@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="beh-ar.fina" format="2">
+  <advance height="1000" width="661"/>
+  <anchor x="328" y="-173" name="bottom"/>
+  <anchor x="295" y="0" name="ring"/>
+  <anchor x="307" y="228" name="top"/>
+  <outline>
+    <component base="behDotless-ar.fina"/>
+    <component base="dotbelow-ar" xOffset="200" yOffset="-237"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

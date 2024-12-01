@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam_alefWasla-ar.fina" format="2">
+  <advance height="1000" width="360"/>
+  <anchor x="417" y="34" name="bottom_1"/>
+  <anchor x="20" y="23" name="bottom_2"/>
+  <anchor x="244" y="0" name="caret_1"/>
+  <anchor x="380" y="627" name="top_1"/>
+  <anchor x="55" y="581" name="top_2"/>
+  <anchor x="60" y="747" name="top"/>
+  <outline>
+    <component base="lam_alef-ar.fina"/>
+    <component base="wasla-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

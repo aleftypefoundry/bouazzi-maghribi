@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one-ar" format="2">
+  <advance height="1000" width="173"/>
+  <unicode hex="0661"/>
+  <outline>
+    <contour>
+      <point x="72" y="443" type="curve"/>
+      <point x="121" y="315"/>
+      <point x="146" y="196"/>
+      <point x="146" y="80" type="curve"/>
+      <point x="146" y="32"/>
+      <point x="138" y="5"/>
+      <point x="121" y="1" type="curve"/>
+      <point x="121" y="116"/>
+      <point x="89" y="249"/>
+      <point x="27" y="402" type="curve"/>
+      <point x="59" y="446" type="line"/>
+      <point x="64" y="453"/>
+      <point x="68" y="452"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

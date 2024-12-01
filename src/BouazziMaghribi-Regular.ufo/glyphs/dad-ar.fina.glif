@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dad-ar.fina" format="2">
+  <advance height="1000" width="704"/>
+  <anchor x="488" y="-48" name="bottom"/>
+  <anchor x="483" y="455" name="top"/>
+  <outline>
+    <component base="sad-ar.fina"/>
+    <component base="dotabove-ar" xOffset="355" yOffset="274"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

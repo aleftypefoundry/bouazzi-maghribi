@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam_hah-ar.init" format="2">
+  <advance height="1000" width="439"/>
+  <anchor x="374" y="52" name="bottom_1"/>
+  <anchor x="136" y="-35" name="bottom_2"/>
+  <anchor x="190" y="0" name="caret_1"/>
+  <anchor x="176" y="674" name="top_1"/>
+  <anchor x="106" y="370" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="112" y="64" type="curve"/>
+      <point x="125" y="72" type="line"/>
+      <point x="131" y="143"/>
+      <point x="130" y="190"/>
+      <point x="123" y="253" type="curve"/>
+      <point x="108" y="245" type="line"/>
+      <point x="160" y="176"/>
+      <point x="239" y="130"/>
+      <point x="347" y="119" type="curve"/>
+      <point x="400" y="95" type="line"/>
+      <point x="416" y="96"/>
+      <point x="428" y="107"/>
+      <point x="429" y="122" type="curve" smooth="yes"/>
+      <point x="430" y="144"/>
+      <point x="417" y="156"/>
+      <point x="399" y="157" type="curve" smooth="yes"/>
+      <point x="282" y="165"/>
+      <point x="175" y="216"/>
+      <point x="129" y="305" type="curve" smooth="yes"/>
+      <point x="121" y="319"/>
+      <point x="107" y="326"/>
+      <point x="93" y="321" type="curve" smooth="yes"/>
+      <point x="79" y="316"/>
+      <point x="71" y="301"/>
+      <point x="76" y="285" type="curve" smooth="yes"/>
+      <point x="94" y="218"/>
+      <point x="110" y="137"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="6" y="0" type="line" smooth="yes"/>
+      <point x="201" y="0"/>
+      <point x="161" y="95"/>
+      <point x="400" y="95" type="curve"/>
+      <point x="407" y="152" type="line"/>
+      <point x="201" y="152"/>
+      <point x="176" y="52"/>
+      <point x="6" y="52" type="curve" smooth="yes"/>
+      <point x="0" y="52" type="line"/>
+    </contour>
+    <contour>
+      <point x="178" y="195" type="line"/>
+      <point x="309" y="195"/>
+      <point x="362" y="308"/>
+      <point x="362" y="412" type="curve" smooth="yes"/>
+      <point x="362" y="503"/>
+      <point x="307" y="586"/>
+      <point x="189" y="635" type="curve"/>
+      <point x="189" y="589" type="line"/>
+      <point x="282" y="537"/>
+      <point x="316" y="489"/>
+      <point x="316" y="412" type="curve" smooth="yes"/>
+      <point x="316" y="325"/>
+      <point x="276" y="241"/>
+      <point x="178" y="241" type="curve"/>
+    </contour>
+    <contour>
+      <point x="287" y="509" type="curve"/>
+      <point x="259" y="573" type="line"/>
+      <point x="189" y="635" type="line"/>
+      <point x="183" y="631" type="line"/>
+      <point x="171" y="596"/>
+      <point x="174" y="571"/>
+      <point x="187" y="552" type="curve" smooth="yes"/>
+      <point x="205" y="527"/>
+      <point x="242" y="514"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>name</key>
+          <string>_cap.strokebutt</string>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>8</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Cap</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

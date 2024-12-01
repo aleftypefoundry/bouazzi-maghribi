@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="heh-ar.fina" format="2">
+  <advance height="1000" width="301"/>
+  <anchor x="118" y="0" name="bottom"/>
+  <anchor x="90" y="406" name="top"/>
+  <outline>
+    <contour>
+      <point x="289" y="0" type="curve" smooth="yes"/>
+      <point x="301" y="0" type="line"/>
+      <point x="301" y="52" type="line"/>
+      <point x="289" y="52" type="line" smooth="yes"/>
+      <point x="230" y="52"/>
+      <point x="197" y="112"/>
+      <point x="180" y="260" type="curve"/>
+      <point x="129" y="252" type="line"/>
+      <point x="151" y="85"/>
+      <point x="198" y="0"/>
+    </contour>
+    <contour>
+      <point x="10" y="115" type="curve" smooth="yes"/>
+      <point x="10" y="43"/>
+      <point x="117" y="13"/>
+      <point x="184" y="155" type="curve"/>
+      <point x="175" y="172" type="line"/>
+      <point x="126" y="95"/>
+      <point x="62" y="100"/>
+      <point x="62" y="130" type="curve" smooth="yes"/>
+      <point x="62" y="152"/>
+      <point x="101" y="195"/>
+      <point x="153" y="206" type="curve"/>
+      <point x="143" y="256" type="line"/>
+      <point x="69" y="241"/>
+      <point x="10" y="178"/>
+    </contour>
+    <contour>
+      <point x="129" y="252" type="curve"/>
+      <point x="180" y="260" type="line"/>
+      <point x="171" y="316"/>
+      <point x="152" y="396"/>
+      <point x="90" y="386" type="curve" smooth="yes"/>
+      <point x="61" y="381"/>
+      <point x="51" y="363"/>
+      <point x="55" y="334" type="curve" smooth="yes"/>
+      <point x="63" y="286"/>
+      <point x="120" y="311"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>name</key>
+          <string>_cap.strokebutt</string>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>0</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Cap</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jeem-ar.medi" format="2">
+  <advance height="1000" width="440"/>
+  <anchor x="222" y="-119" name="bottom"/>
+  <anchor x="234" y="331" name="top"/>
+  <outline>
+    <component base="hah-ar.medi"/>
+    <component base="dotbelow-ar" xOffset="94" yOffset="-183"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

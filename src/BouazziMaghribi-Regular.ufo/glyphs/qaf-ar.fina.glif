@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qaf-ar.fina" format="2">
+  <advance height="1000" width="776"/>
+  <anchor x="694" y="-108" name="bottom"/>
+  <anchor x="625" y="401" name="top"/>
+  <outline>
+    <component base="qafDotless-ar.fina"/>
+    <component base="twodotshorizontalabove-ar" xOffset="455" yOffset="220"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

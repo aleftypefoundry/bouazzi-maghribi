@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>800</integer>
+    <key>capHeight</key>
+    <integer>700</integer>
+    <key>descender</key>
+    <integer>-200</integer>
+    <key>familyName</key>
+    <string>Bouazzi Maghribi</string>
+    <key>guidelines</key>
+    <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>name</key>
+        <string> [locked]</string>
+        <key>x</key>
+        <integer>495</integer>
+        <key>y</key>
+        <integer>52</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>name</key>
+        <string> [locked]</string>
+        <key>x</key>
+        <integer>599</integer>
+        <key>y</key>
+        <integer>0</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>name</key>
+        <string> [locked]</string>
+        <key>x</key>
+        <integer>543</integer>
+        <key>y</key>
+        <integer>-12</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>name</key>
+        <string> [locked]</string>
+        <key>x</key>
+        <integer>768</integer>
+        <key>y</key>
+        <integer>645</integer>
+      </dict>
+    </array>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2021/12/17 12:54:43</string>
+    <key>openTypeNameDesigner</key>
+    <string>Mohamed Gallah</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>https://github.com/iyadh</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>https://mit-license.org</string>
+    <key>openTypeOS2Type</key>
+    <array>
+      <integer>3</integer>
+    </array>
+    <key>openTypeOS2VendorID</key>
+    <string>ALFT</string>
+    <key>openTypeVheaVertTypoAscender</key>
+    <integer>500</integer>
+    <key>openTypeVheaVertTypoDescender</key>
+    <integer>-500</integer>
+    <key>openTypeVheaVertTypoLineGap</key>
+    <integer>1000</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-16</integer>
+      <integer>0</integer>
+      <integer>800</integer>
+      <integer>816</integer>
+    </array>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-216</integer>
+      <integer>-200</integer>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-100</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>50</integer>
+    <key>styleMapFamilyName</key>
+    <string>Bouazzi Maghribi</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
+    <key>styleName</key>
+    <string>Regular</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>xHeight</key>
+    <integer>500</integer>
+  </dict>
+</plist>

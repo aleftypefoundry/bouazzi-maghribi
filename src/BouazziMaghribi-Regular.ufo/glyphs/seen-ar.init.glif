@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seen-ar.init" format="2">
+  <advance height="1000" width="394"/>
+  <anchor x="200" y="-30" name="bottom"/>
+  <anchor x="183" y="249" name="top"/>
+  <outline>
+    <contour>
+      <point x="302" y="0" type="line"/>
+      <point x="422" y="0"/>
+      <point x="394" y="153"/>
+      <point x="323" y="255" type="curve"/>
+      <point x="290" y="204" type="line"/>
+      <point x="338" y="133"/>
+      <point x="361" y="52"/>
+      <point x="302" y="52" type="curve"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="6" y="0" type="line"/>
+      <point x="64" y="0"/>
+      <point x="106" y="27"/>
+      <point x="106" y="142" type="curve"/>
+      <point x="54" y="142" type="line"/>
+      <point x="54" y="71"/>
+      <point x="36" y="52"/>
+      <point x="6" y="52" type="curve"/>
+      <point x="0" y="52" type="line"/>
+    </contour>
+    <contour>
+      <point x="154" y="0" type="curve"/>
+      <point x="154" y="52" type="line"/>
+      <point x="124" y="52"/>
+      <point x="106" y="71"/>
+      <point x="106" y="142" type="curve"/>
+      <point x="54" y="142" type="line"/>
+      <point x="54" y="27"/>
+      <point x="86" y="0"/>
+    </contour>
+    <contour>
+      <point x="154" y="0" type="line"/>
+      <point x="212" y="0"/>
+      <point x="254" y="27"/>
+      <point x="254" y="142" type="curve"/>
+      <point x="202" y="142" type="line"/>
+      <point x="202" y="71"/>
+      <point x="184" y="52"/>
+      <point x="154" y="52" type="curve"/>
+    </contour>
+    <contour>
+      <point x="302" y="0" type="curve"/>
+      <point x="302" y="52" type="line"/>
+      <point x="272" y="52"/>
+      <point x="254" y="71"/>
+      <point x="254" y="142" type="curve"/>
+      <point x="202" y="142" type="line"/>
+      <point x="202" y="27"/>
+      <point x="234" y="0"/>
+    </contour>
+    <contour>
+      <point x="353" y="114" type="curve"/>
+      <point x="353" y="192" type="line"/>
+      <point x="323" y="255" type="line"/>
+      <point x="314" y="254" type="line"/>
+      <point x="248" y="189"/>
+      <point x="276" y="157"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>name</key>
+          <string>_cap.strokebutt</string>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>8</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Cap</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>
