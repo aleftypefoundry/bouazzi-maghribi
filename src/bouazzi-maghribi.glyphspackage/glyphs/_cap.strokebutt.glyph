@@ -1,0 +1,43 @@
+{
+export = 0;
+glyphname = _cap.strokebutt;
+layers = (
+{
+anchors = (
+{
+name = left;
+pos = (56,5);
+},
+{
+name = node1;
+pos = (56,0);
+},
+{
+name = node2;
+pos = (108,0);
+},
+{
+name = origin;
+pos = (56,0);
+},
+{
+name = right;
+pos = (108,5);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 0;
+nodes = (
+(56,0,l),
+(82,-10,l),
+(108,0,l)
+);
+}
+);
+width = 200;
+}
+);
+script = arabic;
+}

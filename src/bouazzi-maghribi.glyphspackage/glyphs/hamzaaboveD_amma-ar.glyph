@@ -1,0 +1,18 @@
+{
+glyphname = "hamzaaboveDamma-ar";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "hamzaabove-ar";
+},
+{
+pos = (-69,228);
+ref = "damma-ar";
+}
+);
+width = 300;
+}
+);
+}

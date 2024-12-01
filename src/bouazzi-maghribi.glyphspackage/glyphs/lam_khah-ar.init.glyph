@@ -1,0 +1,21 @@
+{
+glyphname = "lam_khah-ar.init";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "lam_hah-ar.init";
+},
+{
+anchor = top_2;
+pos = (-22,306);
+ref = "dotabove-ar";
+}
+);
+width = 439;
+}
+);
+metricLeft = "khah-ar.medi";
+metricRight = "lam-ar.init";
+}

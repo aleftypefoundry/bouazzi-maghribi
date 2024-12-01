@@ -1,0 +1,47 @@
+{
+glyphname = period;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(137,-10,o),
+(157,13,o),
+(158,43,cs),
+(158,75,o),
+(137,99,o),
+(104,99,cs),
+(72,99,o),
+(51,75,o),
+(51,43,cs),
+(51,13,o),
+(72,-10,o),
+(104,-10,cs)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -12;
+width = 128;
+}
+);
+vhints = (
+{
+position = 70;
+width = 126;
+}
+);
+};
+};
+vertWidth = 0;
+width = 209;
+}
+);
+metricRight = "=|";
+unicode = 46;
+}

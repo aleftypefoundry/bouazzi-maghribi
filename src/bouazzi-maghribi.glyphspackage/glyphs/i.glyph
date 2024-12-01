@@ -1,0 +1,53 @@
+{
+glyphname = i;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (5,-33);
+ref = dotaccent.i;
+},
+{
+alignment = -1;
+ref = dotlessi;
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 29;
+},
+{
+position = 452;
+width = 25;
+},
+{
+position = 482;
+width = 20;
+},
+{
+position = 593;
+width = 122;
+}
+);
+vhints = (
+{
+position = 92;
+width = 122;
+},
+{
+position = 107;
+width = 94;
+}
+);
+};
+};
+width = 246;
+}
+);
+unicode = 105;
+}

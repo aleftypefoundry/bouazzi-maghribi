@@ -1,0 +1,96 @@
+{
+glyphname = numbersign;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(19,236,l),
+(109,236,l),
+(137,349,l),
+(46,349,l),
+(56,388,l),
+(146,388,l),
+(190,568,l),
+(236,568,l),
+(192,388,l),
+(307,388,l),
+(351,568,l),
+(396,568,l),
+(352,388,l),
+(440,388,l),
+(432,349,l),
+(342,349,l),
+(314,236,l),
+(403,236,l),
+(394,197,l),
+(305,197,l),
+(257,0,l),
+(211,0,l),
+(260,197,l),
+(145,197,l),
+(97,0,l),
+(50,0,l),
+(99,197,l),
+(8,197,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(269,236,l),
+(297,349,l),
+(183,349,l),
+(155,236,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 232;
+width = 46;
+},
+{
+position = 411;
+width = 46;
+},
+{
+position = 648;
+width = 20;
+}
+);
+vhints = (
+{
+position = 60;
+width = 55;
+},
+{
+position = 225;
+width = 54;
+},
+{
+position = 249;
+width = 54;
+},
+{
+position = 414;
+width = 53;
+}
+);
+};
+};
+vertWidth = 0;
+width = 448;
+}
+);
+metricRight = "=|";
+unicode = 35;
+}

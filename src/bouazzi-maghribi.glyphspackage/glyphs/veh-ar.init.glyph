@@ -1,0 +1,19 @@
+{
+glyphname = "veh-ar.init";
+kernRight = "middle-reh";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "fehDotless-ar.init";
+},
+{
+pos = (-9,278);
+ref = "threedotsupabove-ar";
+}
+);
+width = 266;
+}
+);
+}

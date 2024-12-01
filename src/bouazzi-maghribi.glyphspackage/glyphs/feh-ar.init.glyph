@@ -1,0 +1,19 @@
+{
+glyphname = "feh-ar.init";
+kernRight = "middle-reh";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "fehDotless-ar.init";
+},
+{
+pos = (33,286);
+ref = "dotabove-ar";
+}
+);
+width = 266;
+}
+);
+}

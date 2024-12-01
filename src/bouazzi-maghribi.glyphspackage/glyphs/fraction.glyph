@@ -1,0 +1,46 @@
+{
+glyphname = fraction;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,591,l),
+(282,570,l),
+(-84,-23,l),
+(-114,0,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 0;
+width = 21;
+},
+{
+position = 651;
+width = 20;
+},
+{
+position = 675;
+width = 20;
+}
+);
+vhints = (
+{
+position = -158;
+width = 466;
+}
+);
+};
+};
+vertWidth = 0;
+width = 159;
+}
+);
+unicode = 8260;
+}

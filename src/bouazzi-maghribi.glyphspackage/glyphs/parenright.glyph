@@ -1,0 +1,53 @@
+{
+glyphname = parenright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(68,-77,o),
+(146,-5,o),
+(146,240,cs),
+(146,483,o),
+(72,556,o),
+(18,567,c),
+(18,588,l),
+(167,582,o),
+(205,398,o),
+(205,240,cs),
+(205,82,o),
+(167,-103,o),
+(18,-109,c),
+(18,-88,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -128;
+width = 25;
+},
+{
+position = 667;
+width = 25;
+}
+);
+vhints = (
+{
+position = 175;
+width = 70;
+}
+);
+};
+};
+vertWidth = 0;
+width = 223;
+}
+);
+metricRight = "=|";
+unicode = 41;
+}

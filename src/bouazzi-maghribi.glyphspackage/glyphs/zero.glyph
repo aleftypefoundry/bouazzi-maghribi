@@ -1,0 +1,72 @@
+{
+glyphname = zero;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(30,454,o),
+(80,578,o),
+(220,578,cs),
+(361,578,o),
+(411,454,o),
+(411,284,cs),
+(411,114,o),
+(361,-10,o),
+(220,-10,cs),
+(80,-10,o),
+(30,114,o),
+(30,284,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(117,145,o),
+(140,20,o),
+(220,20,cs),
+(301,20,o),
+(324,145,o),
+(324,284,cs),
+(324,422,o),
+(301,548,o),
+(220,548,cs),
+(140,548,o),
+(117,422,o),
+(117,284,cs)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -12;
+width = 35;
+},
+{
+position = 645;
+width = 35;
+}
+);
+vhints = (
+{
+position = 41;
+width = 102;
+},
+{
+position = 387;
+width = 102;
+}
+);
+};
+};
+vertWidth = 0;
+width = 441;
+}
+);
+metricRight = "=|";
+unicode = 48;
+}

@@ -1,0 +1,44 @@
+{
+glyphname = guillemotright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (152,0);
+ref = guilsinglright;
+scale = (0.85,0.85);
+},
+{
+pos = (-5,0);
+ref = guilsinglright;
+scale = (0.85,0.85);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 41;
+width = 394;
+}
+);
+vhints = (
+{
+position = 124;
+width = 92;
+},
+{
+position = 309;
+width = 92;
+}
+);
+};
+};
+vertWidth = 0;
+width = 325;
+}
+);
+metricRight = "=|";
+unicode = 187;
+}

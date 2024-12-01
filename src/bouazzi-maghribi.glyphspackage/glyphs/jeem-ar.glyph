@@ -1,0 +1,20 @@
+{
+glyphname = "jeem-ar";
+kernRight = "middle-reh";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "hah-ar";
+},
+{
+pos = (125,-236);
+ref = "dotcenter-ar";
+}
+);
+width = 506;
+}
+);
+unicode = 1580;
+}

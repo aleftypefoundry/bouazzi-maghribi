@@ -1,0 +1,22 @@
+{
+glyphname = "zero-ar";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(114,242,l),
+(184,171,l),
+(112,100,l),
+(42,170,l)
+);
+}
+);
+width = 226;
+}
+);
+metricRight = "=|";
+unicode = 1632;
+}

@@ -1,0 +1,18 @@
+{
+glyphname = "yehHamzaabove-ar.init";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "behDotless-ar.init";
+},
+{
+pos = (-14,-306);
+ref = "hamzaabove-ar";
+}
+);
+width = 133;
+}
+);
+}

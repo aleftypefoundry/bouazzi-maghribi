@@ -1,0 +1,18 @@
+{
+glyphname = "beh-ar.fina";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "behDotless-ar.fina";
+},
+{
+pos = (200,-237);
+ref = "dotbelow-ar";
+}
+);
+width = 661;
+}
+);
+}

@@ -1,0 +1,19 @@
+{
+glyphname = "yehHamzaabove-ar";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "alefMaksura-ar";
+},
+{
+pos = (156,-539);
+ref = "hamzaabove-ar";
+}
+);
+width = 1084;
+}
+);
+unicode = 1574;
+}

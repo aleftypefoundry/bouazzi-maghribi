@@ -1,0 +1,18 @@
+{
+glyphname = "teh-ar.fina";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "behDotless-ar.fina";
+},
+{
+pos = (137,164);
+ref = "twodotshorizontalabove-ar";
+}
+);
+width = 661;
+}
+);
+}

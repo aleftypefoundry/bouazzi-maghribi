@@ -1,0 +1,18 @@
+{
+glyphname = "sheen-ar.medi";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "seen-ar.medi";
+},
+{
+pos = (58,140);
+ref = "threedotsupabove-ar";
+}
+);
+width = 455;
+}
+);
+}

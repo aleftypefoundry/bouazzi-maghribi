@@ -1,0 +1,21 @@
+{
+glyphname = "lam_alefHamzabelow-ar";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "lam_alef-ar";
+},
+{
+anchor = bottom_2;
+pos = (-34,-188);
+ref = "hamzabelow-ar";
+}
+);
+width = 522;
+}
+);
+metricLeft = "lam_alef-ar";
+metricRight = "lam_alef-ar";
+}

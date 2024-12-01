@@ -1,0 +1,15 @@
+{
+glyphname = "qafDotabove-ar.init";
+kernRight = "middle-reh";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "feh-ar.init";
+}
+);
+width = 266;
+}
+);
+}

@@ -1,0 +1,39 @@
+{
+glyphname = emdash;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,237,l),
+(850,237,l),
+(850,188,l),
+(0,188,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = 221;
+width = 58;
+}
+);
+vhints = (
+{
+position = 0;
+width = 1000;
+}
+);
+};
+};
+vertWidth = 0;
+width = 850;
+}
+);
+metricRight = "=|";
+unicode = 8212;
+}

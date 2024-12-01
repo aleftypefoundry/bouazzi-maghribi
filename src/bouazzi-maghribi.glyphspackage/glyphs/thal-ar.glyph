@@ -1,0 +1,20 @@
+{
+glyphname = "thal-ar";
+kernRight = "teh-reh";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "dal-ar";
+},
+{
+pos = (127,299);
+ref = "dotabove-ar";
+}
+);
+width = 379;
+}
+);
+unicode = 1584;
+}

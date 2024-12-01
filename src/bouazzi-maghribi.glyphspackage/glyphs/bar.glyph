@@ -1,0 +1,39 @@
+{
+glyphname = bar;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(58,638,l),
+(116,638,l),
+(116,-212,l),
+(58,-212,l)
+);
+}
+);
+userData = {
+com.fontlab.hintData = {
+hhints = (
+{
+position = -250;
+width = 1000;
+}
+);
+vhints = (
+{
+position = 80;
+width = 68;
+}
+);
+};
+};
+vertWidth = 0;
+width = 174;
+}
+);
+metricRight = "=|";
+unicode = 124;
+}

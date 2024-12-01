@@ -1,0 +1,20 @@
+{
+glyphname = "lam_alefWasla-ar";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "lam_alef-ar";
+},
+{
+pos = (32,0);
+ref = "wasla-ar";
+}
+);
+width = 522;
+}
+);
+metricLeft = "lam_alef-ar";
+metricRight = "lam_alef-ar";
+}

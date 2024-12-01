@@ -1,0 +1,18 @@
+{
+glyphname = "qaf-ar.medi";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "fehDotless-ar.medi";
+},
+{
+pos = (-9,286);
+ref = "twodotshorizontalabove-ar";
+}
+);
+width = 275;
+}
+);
+}

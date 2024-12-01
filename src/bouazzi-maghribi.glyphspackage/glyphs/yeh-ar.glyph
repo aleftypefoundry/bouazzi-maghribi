@@ -1,0 +1,19 @@
+{
+glyphname = "yeh-ar";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "alefMaksura-ar";
+},
+{
+pos = (443,-482);
+ref = "twodotshorizontalbelow-ar";
+}
+);
+width = 1084;
+}
+);
+unicode = 1610;
+}

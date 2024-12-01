@@ -1,0 +1,21 @@
+{
+glyphname = "heh_zain-ar";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "heh_reh-ar";
+},
+{
+anchor = top_2;
+pos = (104,24);
+ref = "dotabove-ar";
+}
+);
+width = 638;
+}
+);
+metricLeft = "zain-ar.fina";
+metricRight = "heh-ar.init";
+}

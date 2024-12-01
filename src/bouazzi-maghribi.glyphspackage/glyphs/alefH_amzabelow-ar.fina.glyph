@@ -1,0 +1,18 @@
+{
+glyphname = "alefHamzabelow-ar.fina";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "alef-ar.fina";
+},
+{
+pos = (47,-268);
+ref = "hamzabelow-ar";
+}
+);
+width = 209;
+}
+);
+}
