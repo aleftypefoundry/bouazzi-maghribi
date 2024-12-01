@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noon-ar" format="2">
+  <advance height="1000" width="653"/>
+  <unicode hex="0646"/>
+  <anchor x="579" y="-264" name="bottom"/>
+  <anchor x="327" y="225" name="top"/>
+  <outline>
+    <component base="noonghunna-ar"/>
+    <component base="dotabove-ar" xOffset="199" yOffset="44"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

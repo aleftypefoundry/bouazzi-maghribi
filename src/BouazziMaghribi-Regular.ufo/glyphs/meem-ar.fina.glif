@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="meem-ar.fina" format="2">
+  <advance height="1000" width="405"/>
+  <anchor x="237" y="-87" name="bottom"/>
+  <anchor x="235" y="229" name="top"/>
+  <outline>
+    <contour>
+      <point x="399" y="0" type="curve"/>
+      <point x="405" y="0" type="line"/>
+      <point x="405" y="52" type="line"/>
+      <point x="399" y="52" type="line"/>
+      <point x="379" y="52"/>
+      <point x="360" y="60"/>
+      <point x="357" y="87" type="curve"/>
+      <point x="328" y="87" type="line"/>
+      <point x="335" y="18"/>
+      <point x="358" y="0"/>
+    </contour>
+    <component base="meem-ar" xOffset="-2" yOffset="-27"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>name</key>
+          <string>_cap.strokebutt</string>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>0</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Cap</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

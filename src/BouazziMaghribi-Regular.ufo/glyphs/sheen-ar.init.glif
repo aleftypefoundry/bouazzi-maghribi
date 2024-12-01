@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sheen-ar.init" format="2">
+  <advance height="1000" width="394"/>
+  <anchor x="200" y="-30" name="bottom"/>
+  <anchor x="183" y="438" name="top"/>
+  <outline>
+    <component base="seen-ar.init"/>
+    <component base="threedotsupabove-ar" xOffset="13" yOffset="177"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

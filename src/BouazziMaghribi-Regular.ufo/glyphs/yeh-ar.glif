@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeh-ar" format="2">
+  <advance height="1000" width="1084"/>
+  <unicode hex="064A"/>
+  <anchor x="613" y="-417" name="bottom"/>
+  <anchor x="227" y="63" name="top"/>
+  <outline>
+    <component base="alefMaksura-ar"/>
+    <component base="twodotshorizontalbelow-ar" xOffset="443" yOffset="-482"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

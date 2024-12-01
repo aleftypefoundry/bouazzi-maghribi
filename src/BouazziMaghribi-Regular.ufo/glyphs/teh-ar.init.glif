@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="teh-ar.init" format="2">
+  <advance height="1000" width="133"/>
+  <anchor x="57" y="-40" name="bottom"/>
+  <anchor x="57" y="0" name="ring"/>
+  <anchor x="57" y="413" name="top"/>
+  <outline>
+    <component base="behDotless-ar.init"/>
+    <component base="twodotshorizontalabove-ar" xOffset="-113" yOffset="232"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

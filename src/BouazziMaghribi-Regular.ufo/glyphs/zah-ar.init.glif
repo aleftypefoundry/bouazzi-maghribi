@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zah-ar.init" format="2">
+  <advance height="1000" width="418"/>
+  <anchor x="225" y="-40" name="bottom"/>
+  <anchor x="157" y="445" name="top"/>
+  <outline>
+    <component base="tah-ar.init"/>
+    <component base="dotabove-ar" xOffset="29" yOffset="264"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

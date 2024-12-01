@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hamzaaboveSukun-ar" format="2">
+  <advance height="1000"/>
+  <anchor x="71" y="602" name="_top"/>
+  <anchor x="71" y="953" name="top"/>
+  <outline>
+    <component base="hamzaabove-ar"/>
+    <component base="sukun-ar" xOffset="-59" yOffset="164"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>300</integer>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

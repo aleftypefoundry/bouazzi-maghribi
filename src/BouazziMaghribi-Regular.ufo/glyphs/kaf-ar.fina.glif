@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaf-ar.fina" format="2">
+  <advance height="1000" width="600"/>
+  <anchor x="282" y="-40" name="bottom"/>
+  <anchor x="328" y="362" name="top"/>
+  <outline>
+    <contour>
+      <point x="594" y="0" type="curve"/>
+      <point x="600" y="0" type="line"/>
+      <point x="600" y="52" type="line"/>
+      <point x="594" y="52" type="line"/>
+      <point x="574" y="52"/>
+      <point x="555" y="60"/>
+      <point x="552" y="87" type="curve"/>
+      <point x="523" y="87" type="line"/>
+      <point x="530" y="18"/>
+      <point x="553" y="0"/>
+    </contour>
+    <component base="kaf-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>name</key>
+          <string>_cap.strokebutt</string>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>0</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Cap</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

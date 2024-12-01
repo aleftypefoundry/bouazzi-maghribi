@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghain-ar" format="2">
+  <advance height="1000" width="600"/>
+  <unicode hex="063A"/>
+  <anchor x="410" y="-30" name="bottom"/>
+  <anchor x="410" y="607" name="top"/>
+  <outline>
+    <component base="ain-ar"/>
+    <component base="dotabove-ar" xOffset="282" yOffset="426"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

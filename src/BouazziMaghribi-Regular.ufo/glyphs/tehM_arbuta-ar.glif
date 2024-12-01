@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tehMarbuta-ar" format="2">
+  <advance height="1000" width="295"/>
+  <unicode hex="0629"/>
+  <anchor x="123" y="-31" name="bottom"/>
+  <anchor x="120" y="358" name="top"/>
+  <outline>
+    <component base="heh-ar"/>
+    <component base="twodotshorizontalabove-ar" xOffset="-50" yOffset="177"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

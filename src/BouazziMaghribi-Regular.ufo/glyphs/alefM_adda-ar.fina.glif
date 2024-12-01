@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefMadda-ar.fina" format="2">
+  <advance height="1000" width="209"/>
+  <anchor x="118" y="-57" name="bottom"/>
+  <anchor x="76" y="733" name="top"/>
+  <outline>
+    <component base="alef-ar.fina"/>
+    <component base="madda-ar" xOffset="-33" yOffset="-20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

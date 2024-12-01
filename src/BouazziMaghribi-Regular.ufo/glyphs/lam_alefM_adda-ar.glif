@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam_alefMadda-ar" format="2">
+  <advance height="1000" width="522"/>
+  <anchor x="434" y="34" name="bottom_1"/>
+  <anchor x="37" y="23" name="bottom_2"/>
+  <anchor x="261" y="0" name="caret_1"/>
+  <anchor x="397" y="627" name="top_1"/>
+  <anchor x="72" y="581" name="top_2"/>
+  <anchor x="109" y="753" name="top"/>
+  <outline>
+    <component base="lam_alef-ar"/>
+    <component base="madda-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

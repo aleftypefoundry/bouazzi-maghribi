@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tah-ar.init" format="2">
+  <advance height="1000" width="418"/>
+  <anchor x="225" y="-40" name="bottom"/>
+  <anchor x="157" y="328" name="top"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="142" y="52" type="line"/>
+      <point x="0" y="52" type="line"/>
+    </contour>
+    <contour>
+  </contour>
+    <contour>
+  </contour>
+    <component base="tah-ar" xOffset="32"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PCPP</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>name</key>
+          <string>_cap.strokebutt</string>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>2</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Cap</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

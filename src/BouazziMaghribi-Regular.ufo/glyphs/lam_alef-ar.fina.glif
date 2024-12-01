@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam_alef-ar.fina" format="2">
+  <advance height="1000" width="360"/>
+  <anchor x="417" y="34" name="bottom_1"/>
+  <anchor x="20" y="23" name="bottom_2"/>
+  <anchor x="244" y="0" name="caret_1"/>
+  <anchor x="380" y="627" name="top_1"/>
+  <anchor x="55" y="581" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="354" y="0" type="curve"/>
+      <point x="360" y="0" type="line"/>
+      <point x="360" y="52" type="line"/>
+      <point x="354" y="52" type="line"/>
+      <point x="334" y="52"/>
+      <point x="315" y="60"/>
+      <point x="312" y="87" type="curve"/>
+      <point x="283" y="87" type="line"/>
+      <point x="290" y="18"/>
+      <point x="313" y="0"/>
+    </contour>
+    <component base="lam_alef-ar" xOffset="-17"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>name</key>
+          <string>_cap.strokebutt</string>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>0</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Cap</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

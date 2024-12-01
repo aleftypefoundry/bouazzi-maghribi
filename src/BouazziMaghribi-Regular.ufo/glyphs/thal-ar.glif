@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thal-ar" format="2">
+  <advance height="1000" width="379"/>
+  <unicode hex="0630"/>
+  <anchor x="140" y="-80" name="bottom"/>
+  <anchor x="255" y="480" name="top"/>
+  <outline>
+    <component base="dal-ar"/>
+    <component base="dotabove-ar" xOffset="127" yOffset="299"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>

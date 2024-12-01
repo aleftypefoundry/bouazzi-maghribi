@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fehDotmovedbelow-ar" format="2">
+  <advance height="1000" width="636"/>
+  <unicode hex="06A2"/>
+  <anchor x="524" y="-119" name="bottom"/>
+  <anchor x="308" y="269" name="top"/>
+  <outline>
+    <component base="fehDotless-ar"/>
+    <component base="dotbelow-ar" xOffset="396" yOffset="-183"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>800</integer>
+    </dict>
+  </lib>
+</glyph>
