@@ -1,0 +1,48 @@
+FONTLOG for Bouazzi Maghribi
+
+This file provides detailed information on the Bouazzi Maghribi font
+software. This information should be distributed along with the
+Bouazzi Maghribi fonts and any derivative works.
+
+Basic Font Information
+-----------------------
+
+Bouazzi Maghribi is an open-source revival of a classic Arabic typeface
+based on the Maghribi script, dedicated to the memory of the late
+Dr. Ahmed Bouazzi. It aims to bring the elegance and detail of the
+traditional Maghribi script to contemporary digital platforms, and
+supports writing in both normal and Maghribi Arabic styles.
+
+The font was designed in Glyphs App. Source files (.glyphspackage,
+.designspace, .ufo) are in the /src directory; compiled binaries
+(OTF, TTF, WOFF) are in /fonts.
+
+Please refer to the Bouazzi Maghribi website/repository for the latest
+version of this font: https://github.com/aleftypefoundry/bouazzi-maghribi
+
+ChangeLog
+----------
+
+[Add new entries at the top of this list, in the same style, so the
+most recent change is always easiest to find.]
+
+12 October 2023 (Version 0.0.1) [Your Name / Foundry Name]
+- Initial public release.
+- Regular style, covering normal Arabic and Maghribi Arabic writing.
+
+Acknowledgements
+-----------------
+
+[Use this section to acknowledge any individuals or organizations that
+contributed to the development of the font, in whatever way you deem
+proper and appropriate. These can be, for example, individuals or
+organizations that beta-tested the font, provided fonts that this font
+was derived from, provided substantial feedback or encouragement, or
+provided some other form of support.]
+
+* This project is dedicated to the memory of the late Dr. Ahmed Bouazzi,
+  whose work on the preservation and promotion of the Maghribi script
+  and the Arabic language made this revival possible.
+
+[Add additional contributors here as the project receives them, e.g.:]
+* [Name] ([contact info / github handle]) — [what they contributed]

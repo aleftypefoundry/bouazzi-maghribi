@@ -33,7 +33,7 @@ Community contributions have always played a crucial role in maintaining and evo
 
 ## License
 
-Bouazzi Maghribi is an open-source project available under the [MIT License](license.md).
+Bouazzi Maghribi is an open-source project available under the [OFL License](OFL.txt).
 
 ## Acknowledgements
 
